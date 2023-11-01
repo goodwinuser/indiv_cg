@@ -1,0 +1,31 @@
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\bin\Debug\polygon_intersection.exe.config
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\bin\Debug\polygon_intersection.exe
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\bin\Debug\polygon_intersection.pdb
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.csproj.AssemblyReference.cache
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.Form1.resources
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.Properties.Resources.resources
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.csproj.GenerateResource.cache
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.csproj.CoreCompileInputs.cache
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.exe
+C:\Users\tanyp\OneDrive\Desktop\Компьютерная графика - ЭКЗАМЕН\ind1\polygon_intersection\obj\Debug\polygon_intersection.pdb
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\bin\Debug\polygon_intersection.exe.config
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\bin\Debug\polygon_intersection.exe
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\bin\Debug\polygon_intersection.pdb
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\obj\Debug\polygon_intersection.csproj.AssemblyReference.cache
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\obj\Debug\polygon_intersection.Form1.resources
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\obj\Debug\polygon_intersection.Properties.Resources.resources
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\obj\Debug\polygon_intersection.csproj.GenerateResource.cache
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\obj\Debug\polygon_intersection.csproj.CoreCompileInputs.cache
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\obj\Debug\polygon_intersection.exe
+C:\Users\DIO\Desktop\Computer_Graphics_individual-main\Computer_Graphics_individual-main\Indiv_1\obj\Debug\polygon_intersection.pdb
+C:\Users\DIO\Desktop\ind\bin\Debug\polygon_intersection.exe.config
+C:\Users\DIO\Desktop\ind\bin\Debug\polygon_intersection.exe
+C:\Users\DIO\Desktop\ind\bin\Debug\polygon_intersection.pdb
+C:\Users\DIO\Desktop\ind\obj\Debug\polygon_intersection.csproj.AssemblyReference.cache
+C:\Users\DIO\Desktop\ind\obj\Debug\polygon_intersection.Form1.resources
+C:\Users\DIO\Desktop\ind\obj\Debug\polygon_intersection.Properties.Resources.resources
+C:\Users\DIO\Desktop\ind\obj\Debug\polygon_intersection.csproj.GenerateResource.cache
+C:\Users\DIO\Desktop\ind\obj\Debug\polygon_intersection.csproj.CoreCompileInputs.cache
+C:\Users\DIO\Desktop\ind\obj\Debug\polygon_intersection.exe
+C:\Users\DIO\Desktop\ind\obj\Debug\polygon_intersection.pdb
